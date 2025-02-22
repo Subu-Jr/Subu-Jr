@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Java
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...Tech hub
-- 📫 How to reach me ...subazjr@gmail.com
+- 📫 How to reach me ... subazjr@gmail.com
 - 😄 Pronouns: ...tamil, English
 - ⚡ Fun fact: ...with code
 
